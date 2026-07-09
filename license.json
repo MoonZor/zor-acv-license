@@ -3,15 +3,13 @@
   "message": "OK",
   "users": [
     {
-      "code": "ZOR-138B5CF5-EC79-41B9-A1A5-E79E9F4918A4",
-      "name": "自己"
+      "hash": "d0fdcb5a797a72ad14936857b7def5ab4b1585d41c5ad39967514cdea671c9e9",
+      "name": "測試"
     },
     {
-      "code": "ZOR-8A3C12D0-1111-2222-3333-ABCDEF123456",
-      "name": "小王"
+      "hash": "第二個使用者的hash",
+      "name": "使用者B"
     }
   ],
-  "blocked": [
-    "ZOR-8A3C12D0-1111-2222-3333-ABCDEF123456"
-  ]
+  "blockedHash": []
 }
