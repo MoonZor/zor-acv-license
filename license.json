@@ -4,11 +4,7 @@
   "users": [
     {
       "hash": "d0fdcb5a797a72ad14936857b7def5ab4b1585d41c5ad39967514cdea671c9e9",
-      "name": "測試"
-    },
-    {
-      "hash": "第二個使用者的hash",
-      "name": "使用者B"
+      "name": "自己"
     }
   ],
   "blockedHash": []
