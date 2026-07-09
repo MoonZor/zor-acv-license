@@ -1,5 +1,17 @@
 {
   "enabled": true,
   "message": "OK",
-  "blocked": []
+  "users": [
+    {
+      "code": "ZOR-138B5CF5-EC79-41B9-A1A5-E79E9F4918A4",
+      "name": "自己"
+    },
+    {
+      "code": "ZOR-8A3C12D0-1111-2222-3333-ABCDEF123456",
+      "name": "小王"
+    }
+  ],
+  "blocked": [
+    "ZOR-8A3C12D0-1111-2222-3333-ABCDEF123456"
+  ]
 }
