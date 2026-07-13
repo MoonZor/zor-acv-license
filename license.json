@@ -5,7 +5,14 @@
     {
       "hash": "c6acf9047a2ceddb9346027c0aaa1a49a3037684590ce1334c3212e2ef94520a",
       "name": "自己"
+    },
+    {
+      "hash": "9361a7d97ab23c71bf7df614ffa14bb7aa4dadad760c9321f3d1c60096120818",
+      "name": "測試"
     }
   ],
-  "blockedHash": []
+  "blockedHash": [
+    "9f8e7d6c5b4a32100123456789abcdef0123456789abcdef0123456789abcd",
+    "1234567890abcdef1234567890abcdef1234567890abcdef1234567890abcd"
+  ]
 }
