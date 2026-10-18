@@ -1,1 +1,16 @@
 
+{
+  "enabled": true,
+  "licenses": [
+    {
+      "hash": "6c1b6b6417dfb58efc10ac87492ab4c5f126f31047d7b5677fb2beca38c20a4c",
+      "enabled": true,
+      "expires": "null"
+    },
+    {
+      "hash": "a49297730b1671ed12102c0e2c24b21e3a46887ee3bc1da245849f38b351a395",
+      "enabled": true,
+      "expires": "2026-10-18"
+    }
+  ]
+}
